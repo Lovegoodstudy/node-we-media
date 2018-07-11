@@ -1,0 +1,5 @@
+{
+    "DATABASE_URL": "mongodb://localhost:27017",
+    "ARTICLE_DATABASE_NAME": "articleDB",
+    "ARTICLE_COLLECTION_NAME": "articles"
+}
