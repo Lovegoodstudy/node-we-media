@@ -34,3 +34,9 @@ typings/
 .eslintrc.json
 jsconfig.json
 typings.json
+
+# Database
+database
+
+# Public
+public
